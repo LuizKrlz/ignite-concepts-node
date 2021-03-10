@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p>
+  <a href="https://insomnia.rest/run/?label=Todos&uri=.%2Froutes.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+
 > This is a challenge for ignite course for Rocketseat
 
 ## Install

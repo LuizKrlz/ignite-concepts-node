@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://insomnia.rest/run/?label=Todos&uri=.%2Froutes.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+  <a href="https://insomnia.rest/run/?label=Todos&uri=https://raw.githubusercontent.com/LuizKrlz/ignite-concepts-node/eac16b2264990a87e8589471b58d66596782fa14/routes.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
 </p>
 
 > This is a challenge for ignite course for Rocketseat

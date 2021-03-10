@@ -28,7 +28,7 @@ yarn run test
 
 👤 **Luiz Carlos Rocha Correa**
 
-* Github: [@luiz.correa.dev](https://github.com/Luizkrlz)
+* Github: [@LuizKrlz](https://github.com/Luizkrlz)
 * LinkedIn: [@luizcarlosrochacorrea](https://linkedin.com/in/luizcarlosrochacorrea)
 
 ## Show your support
